@@ -8,7 +8,7 @@
   "server": {
     "ip": "Berozgaar-VtRM.aternos.me",
     "port": 13942,
-    "version": "1.21.1"
+    "version": "1.21.6"
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Nigga",
+        "You're Gay",
+        "Fuck You"
       ]
     },
     "chat-log": true,
